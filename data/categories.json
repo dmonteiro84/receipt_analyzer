@@ -1,0 +1,197 @@
+{
+    "Beverages": {
+        "Alcoholic": {
+            "Beer": ["beer", "ale", "lager", "stout", "porter", "hazy"],
+            "Wine": ["wine"],
+            "Spirits": ["vodka", "whiskey", "whisky", "rum", "gin", "brandy", "tequila", "champagne", "liqueur"]
+        },
+        "Non-Alcoholic": {
+            "Soda": ["soda", "cola", "lemonade"],
+            "Juice": ["juice"],
+            "Coffee": ["coffee", "espresso", "latte", "starbucks"],
+            "Tea": ["tea"],
+            "Other": ["water", "smoothie", "energy drink", "sports drink"]
+        }
+    },
+    "Snacks": {
+        "Salty": {
+            "Chips": ["chips", "potato chips"],
+            "Pretzels": ["pretzel"],
+            "Popcorn": ["popcorn"],
+            "Crackers": ["cracker"],
+            "Corn Thins": ["corn thin"],
+            "Other": ["nachos", "salted nuts", "cheese sticks"]
+        },
+        "Sweet": {
+            "Cookies": ["cookie"],
+            "Candy": ["candy", "jelly beans", "gummy bears"],
+            "Chocolate": ["chocolate"],
+            "Baked Goods": ["brownie", "muffin", "doughnut", "cupcake"],
+            "Puffs": ["puffs"],
+            "Other": ["snackboy"]
+        }
+    },
+    "Dairy": {
+        "Cheese": {
+            "Cheese": ["cheese","haloumi","feta","cheddar"]
+        },
+        "Yogurt": {
+            "Yogurt": ["yogurt", "yoghurt"]
+        },
+        "Cream": {
+            "Cream": ["cream"]
+        },
+        "Milk Products": {
+            "Milk": ["milk", "butter", "ice cream", "eggs"]
+        }
+    },
+    "Meat": {
+        "Processed Meat": {
+            "Bacon": ["bacon"],
+            "Ham": ["ham"],
+            "Sausage": ["sausage"],
+            "Salami": ["salami"]
+        },
+        "Fresh Meat": {
+            "Beef": ["beef"],
+            "Pork": ["pork"],
+            "Chicken": ["chicken"],
+            "Turkey": ["turkey"],
+            "Lamb": ["lamb"],
+            "Duck": ["duck"]
+        },
+        "Seafood": {
+            "Fish": ["fish"],
+            "Tuna": ["tuna"],
+            "Shrimp": ["shrimp"],
+            "Tofu": ["tofu"]
+        }
+    },
+    "Produce": {
+        "Fruits": {
+            "Apple": ["apple"],
+            "Banana": ["banana"],
+            "Mango": ["mango"],
+            "Orange": ["orange"],
+            "Grape": ["grape"],
+            "Pear": ["pear"],
+            "Pineapple": ["pineapple"],
+            "Strawberry": ["strawberr"],
+            "Blueberry": ["blueberr"],
+            "Raspberry": ["raspberr"],
+            "Kiwi": ["kiwi"],
+            "Plum": ["plum"],
+            "Cherry": ["cherr"],
+            "Melon": ["melon"],
+            "Pomegranate": ["pomegranate"],
+            "Peach": ["peach"]
+        },
+        "Vegetables": {
+            "Carrot": ["carrot"],
+            "Lettuce": ["lettuce"],
+            "Tomato": ["tomato"],
+            "Pepper": ["pepper"],
+            "Broccoli": ["broccoli"],
+            "Cucumber": ["cucumber"],
+            "Eggplant": ["eggplant"],
+            "Avocado": ["avocado"],
+            "Potato": ["potato"],
+            "Celery": ["celery"],
+            "Cabbage": ["cabbage"],
+            "Cauliflower": ["cauliflower"],
+            "Spinach": ["spinach"],
+            "Kale": ["kale"],
+            "Onion": ["onion"],
+            "Garlic": ["garlic"],
+            "Zucchini": ["zucchini"],
+            "Beet": ["beet"],
+            "Radish": ["radish"],
+            "Beans": ["beans"],
+            "Mushrooms": ["mushroom"],
+            "Pumpkin": ["pumpkin"]
+        }
+    },
+    "Bakery": {
+        "Bread": {
+            "Bread": ["bread", "bun", "roll", "pita", "panini"]
+        },
+        "Pastries": {
+            "Pastry": ["cake", "pastry", "croissant", "bagel", "biscuit", "scone"]
+        }
+    },
+    "Frozen": {
+        "Meals": {
+            "Frozen Meals": ["frozen pizza", "frozen meals", "frozen entrees"]
+        },
+        "Vegetables": {
+            "Frozen Vegetables": ["frozen vegetables"]
+        },
+        "Fruits": {
+            "Frozen Fruits": ["frozen fruits"]
+        },
+        "Desserts": {
+            "Frozen Desserts": ["ice cream", "gelato", "haagen-dazs"]
+        }
+    },
+    "Pantry": {
+        "Grains & Seeds": {
+            "Grains": ["pasta", "rice", "quinoa", "oats", "lentils", "spaghetti", "macaroni"],
+            "Seeds": ["chia","linseed"]
+        },
+        "Baking": {
+            "Baking Ingredients": ["flour", "sugar", "semolina"]
+        },
+        "Seasoning": {
+            "Seasoning": ["salt", "oil", "vinegar"]
+        }
+    },
+    "Baby": {
+        "Essentials": {
+            "Diaper": ["diaper", "wipes", "nappypants"]
+        },
+        "Food": {
+            "Baby Food": ["baby food", "formula", "kiddylicious"]
+        },
+        "Care": {
+            "Baby Care": ["baby lotion"]
+        }
+    },
+    "Household": {
+        "Cleaning": {
+            "Cleaning Products": ["detergent", "cleaner", "dish soap", "laundry detergent", "sponge", "bleach", "somat rinser","finish power", "scourer"]
+        },
+        "Paper Products": {
+            "Paper Products": ["foil", "wrap", "paper", "trash bags"]
+        },
+        "Storage": {
+            "Storage Products": ["bag"]
+        }
+    },
+    "Health": {
+        "Supplements": {
+            "Supplements": ["vitamin", "supplement", "protein"]
+        },
+        "Medicine": {
+            "Medicine": ["medicine", "pain reliever", "cough syrup", "antacid"]
+        },
+        "First Aid": {
+            "First Aid Products": ["bandage", "first aid kit"]
+        }
+    },
+    "Condiments": {
+        "Sauces": {
+            "Sauces": ["sauce", "ketchup", "mustard", "mayonnaise", "soy sauce", "barbecue sauce", "hot sauce"]
+        },
+        "Seasoning": {
+            "Seasoning": ["dip", "spice", "salt", "pepper","cinnamon", "rosemary","thyme","tumeric","oregano"]
+        },
+        "Vinegar": {
+            "Vinegar": ["vinegar"]
+        }
+    },
+    "Dessert": {
+        "Sweets": {
+            "Sweets": ["chocolate", "candy", "dessert", "cake", "brownie", "pudding", "custard", "gelato", "truffle", "ice cream"]
+        }
+    }
+}

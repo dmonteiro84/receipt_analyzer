@@ -1,0 +1,29 @@
+{
+    "supermarkets": {
+        "woolworths": "Woolworths",
+        "coles": "Coles",
+        "aldi": "Aldi",
+        "iga": "IGA",
+        "costco": "Costco",
+        "foodworks": "FoodWorks",
+        "supabarn": "Supabarn",
+        "drakes": "Drakes",
+        "spudshed": "Spudshed",
+        "ritchies": "Ritchies",
+        "farmer jacks": "Farmer Jacks",
+        "harris farm": "Harris Farm",
+        "foodland": "Foodland",
+        "food for less": "Food For Less",
+        "friendly grocer": "Friendly Grocer",
+        "superbarn": "Superbarn",
+        "the reject shop": "The Reject Shop",
+        "bws": "BWS",
+        "dan murphy's": "Dan Murphy's",
+        "liquorland": "Liquorland",
+        "first choice liquor": "First Choice Liquor",
+        "cellarbrations": "Cellarbrations",
+        "the bottle-o": "The Bottle-O",
+        "vintage cellars": "Vintage Cellars",
+        "bottle shop": "Bottle Shop"
+    }
+}

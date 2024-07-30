@@ -20,7 +20,7 @@
             "Popcorn": ["popcorn"],
             "Crackers": ["cracker"],
             "Corn Thins": ["corn thin"],
-            "Other": ["nachos", "salted nuts", "cheese sticks"]
+            "Other": ["nachos", "salted nuts", "cheese sticks", "nut mix"]
         },
         "Sweet": {
             "Cookies": ["cookie"],
@@ -28,12 +28,12 @@
             "Chocolate": ["chocolate"],
             "Baked Goods": ["brownie", "muffin", "doughnut", "cupcake"],
             "Puffs": ["puffs"],
-            "Other": ["snackboy"]
+            "Other": ["snackboy","knackboy","snackaballs","knackboy keto ball"]
         }
     },
     "Dairy": {
         "Cheese": {
-            "Cheese": ["cheese","haloumi","feta","cheddar"]
+            "Cheese": ["cheese","haloumi","feta","cheddar", "gruyere", "comte"]
         },
         "Yogurt": {
             "Yogurt": ["yogurt", "yoghurt"]
@@ -124,7 +124,7 @@
             "Frozen Meals": ["frozen pizza", "frozen meals", "frozen entrees"]
         },
         "Vegetables": {
-            "Frozen Vegetables": ["frozen vegetables"]
+            "Frozen Vegetables": ["frozen vegetables", "frozen peas"]
         },
         "Fruits": {
             "Frozen Fruits": ["frozen fruits"]
@@ -135,7 +135,7 @@
     },
     "Pantry": {
         "Grains & Seeds": {
-            "Grains": ["pasta", "rice", "quinoa", "oats", "lentils", "spaghetti", "macaroni"],
+            "Grains": ["pasta", "rice", "quinoa", "oats", "lentils", "spaghetti", "macaroni", "jordans dorset ryvita"],
             "Seeds": ["chia","linseed"]
         },
         "Baking": {
@@ -143,6 +143,10 @@
         },
         "Seasoning": {
             "Seasoning": ["salt", "oil", "vinegar"]
+        },
+        "Canned Goods": {
+            "Canned Vegetables": ["beans", "corn", "chickpeas"],
+            "Canned Fruits": ["canned peaches", "canned pineapples"]
         }
     },
     "Baby": {
